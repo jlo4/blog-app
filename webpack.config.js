@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 module.exports = {
   entry: [
     './src/index.js'
@@ -25,7 +25,7 @@ module.exports = {
     contentBase: './'
   }
 };
-=======
+
 module.exports = {
   entry: [
     './src/index.js'
@@ -52,4 +52,3 @@ module.exports = {
     contentBase: './'
   }
 };
->>>>>>> acdc2070d50a170f9bd415b423e4365c2423a7d6

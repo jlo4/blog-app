@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /node_modules
 bundle.js
 npm-debug.log
@@ -7,7 +7,6 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
-=======
 /node_modules
 bundle.js
 npm-debug.log
@@ -16,4 +15,3 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
->>>>>>> acdc2070d50a170f9bd415b423e4365c2423a7d6
